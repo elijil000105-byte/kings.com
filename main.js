@@ -1,2 +1,2 @@
-console.log("hej läxa");
+console.log("hej läxa söndag");
 
