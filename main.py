@@ -7,6 +7,5 @@ tal2 = int(input("Skriv det andra talet: "))
 
 if val == "1":
     print("Resultat:", tal1 + tal2)
-if val == "2":
+else val == "2":
     print("Resultat:", tal1 - tal2)
-
