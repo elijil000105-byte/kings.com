@@ -9,3 +9,4 @@ if val == "1":
     print("Resultat:", tal1 + tal2)
 else val == "2":
     print("Resultat:", tal1 - tal2)
+    
